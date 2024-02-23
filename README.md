@@ -1,7 +1,7 @@
 <h1 align="center">CONFIGURANDO AMBIENTE VIRTUAL</h1>
 
 
-<p align="right">1 - BAIXANDO O PROJETO E CRIANDO A VENV</p>
+<h2 align="left">1 - BAIXANDO O PROJETO E CRIANDO A VENV</h2>
 
 
 ***Crie um novo diretório para o projeto e o abra utilizando o VSCODE.
@@ -19,7 +19,7 @@
 ***Uma vez que o ambiente virtual está ativado, instale as bibliotecas utilizadas no projeto executando o seguinte comando: pip install -r requirementss.txt;
 
 
-<p align="right">2 - DEFININDO VARIÁVEL DE AMBIENTE</p>
+<h2 align="left">2 - DEFININDO VARIÁVEL DE AMBIENTE</h2>
 
 
 ***Antes de rodar o arquivo python, primeiro defina o caminho para o arquivo de base dos dados utilizados na análise;
@@ -27,6 +27,6 @@
 ***Execute o seguinte comando no terminal + o caminho de onde está salvo o arquivo de base de dados "dados.csv": $Env:DATA_PATH = "seu_caminho_do_diretorio_para_o_arquivo_dados.csv";
 
 
-<p align="right">3 - PRONTO! O projeto já pode ser executado na sua máquina...:D;</p>
+<h2 align="left">3 - PRONTO! O projeto já pode ser executado na sua máquina...:D;</h2>
 
 
